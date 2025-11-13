@@ -1,6 +1,6 @@
-directions_lookup = {
-    "N": "North",
-    "S": "South",
-    "E": "East",
-    "W": "West"
-}
+const directions = {
+  N: 'North',
+  S: 'South',
+  E: 'East',
+  W: 'West'
+};

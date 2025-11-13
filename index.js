@@ -1,7 +1,8 @@
 var directions = {
-  "N": "North";
-  "S": "South";
-  "E": "East";
-  "W": "West";
+  `N`: `North`;
+  `S`: `South`;
+  `E`: `East`;
+  `W`: `West`;
 };
+
 

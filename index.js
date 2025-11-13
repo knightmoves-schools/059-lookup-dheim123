@@ -1,8 +1,6 @@
-var directions = {
-  `N`: `North`;
-  `S`: `South`;
-  `E`: `East`;
-  `W`: `West`;
-};
-
-
+directions_lookup = {
+    "N": "North",
+    "S": "South",
+    "E": "East",
+    "W": "West"
+}
